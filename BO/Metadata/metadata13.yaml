@@ -1,0 +1,10 @@
+acqfunc: <function maximum_acq_func_3printers at 0x28fb1b940>
+gp training time nonstationary: 0.0003418922424316406
+gp training time stationary: 335.7164580821991
+hps before BO after training: "[1.19777523e-02 3.08521364e+02 2.46225163e-01 6.07631582e-01\n\
+  \ 1.38708566e-03 1.53863797e-03 3.14705174e-03]"
+kernel: <function kernel_mat32_814 at 0x28fb35550>
+likelihood before BO after training: '1185.5243106821379'
+n=1: y
+n_batch: 13
+order of points to printer: (1, 3, 2)

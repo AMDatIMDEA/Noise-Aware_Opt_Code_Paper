@@ -1,0 +1,10 @@
+acqfunc: expected improvement
+gp training time nonstationary: 0.0003731250762939453
+gp training time stationary: 257.48469495773315
+hps before BO after training: "[4.42849623e-03 1.88109167e+02 1.42491260e-01 6.32842532e-01\n\
+  \ 1.40825150e-03 1.92175446e-03 2.86151088e-03]"
+kernel: <function kernel_mat32_814 at 0x7fce038f7310>
+likelihood before BO after training: '1063.115135338294'
+n=1: y
+n_batch: 4
+order of points to printer: (3, 2, 1)

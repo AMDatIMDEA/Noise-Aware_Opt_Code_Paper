@@ -1,0 +1,8 @@
+acqfunc: expected improvement
+gp training time stationary: 6.036750078201294
+hps before BO after training: '[3.45604366e-03 1.19510041e+03 2.04067454e-02 2.91027551e-03]'
+kernel: <function kernel_mat32_814 at 0x7fa238adf940>
+likelihood before BO after training: '309.7896813888502'
+n=1: y
+n_batch: 1
+values: '[[0.02337371]]'

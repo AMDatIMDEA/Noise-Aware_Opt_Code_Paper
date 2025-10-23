@@ -1,0 +1,14 @@
+acqfunc: expected improvement
+gp training time nonstationary: 0.0008559226989746094
+gp training time stationary: 523.5138657093048
+hps after BO after training: "[3.86200233e-03 1.15708479e+02 1.67959000e-01 7.70418020e-01\n\
+  \ 1.45572543e-03 2.11798498e-03 2.76761213e-03]"
+kernel: <function kernel_mat32_814 at 0x7c9c22d5c280>
+likelihood after BO after training: '1128.9312023102643'
+maxacq_task0: '0.012260751454133004'
+maxacq_task1: '0.014406056983413032'
+maxacq_task2: '0.015254656264790346'
+n=1: y
+n_batch: 8
+order of points to printer: (3, 1, 2)
+values: '[[-0.08812134664615535], [-0.1173849198978704], [-0.14877610283714862]]'
