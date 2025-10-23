@@ -24,7 +24,7 @@ GPL-3
 ## Acknowledgements:
 * Marcus Noack (Berkeley Lab)
 * Maciej Haranczyk (IMDEA Materials Institute)
-* Luis Calero-Lumbreras (IMDEA Materials Institute, Universidad Carlos III de Madrid)
+* Data collection: Luis Calero-Lumbreras (IMDEA Materials Institute, Universidad Carlos III de Madrid)
 
 ## Please cite
 <br>
