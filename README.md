@@ -7,7 +7,7 @@ The repo is organized as follows:
 * Random_Initial_Data: Creates a random initial data set starting from one point, that served for initial data collection underlying the initial noise analysis studies
 * Noise Analysis: Notebook and plots from paper for all the noise analysis 
 * Convergence: Notebook and plots for convergence analysis of single and multi-device BO
-* data: contains the main data files
+* data: contains the main data files. The data was mainly collected by Luis Calero-Lumbreras.
 * BO: contains the notebooks for running single and multi-device optimization, Metadata underlying the paper results, workflow as described in Readme_Workflow file. 
 
 ## Requirements:
